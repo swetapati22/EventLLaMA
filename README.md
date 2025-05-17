@@ -1,9 +1,5 @@
 # Instruction-Tuning LLMs for Event Extraction with Annotation Guidelines
 
-[**Datasets**](#datasets) |
-[**Models**](#models) |
-[**Environment**](#environment) |
-[**Running**](#running) |
 [**Paper**](https://arxiv.org/abs/2502.16377)
 
 **Authors**: [Saurabh Srivastava](mailto:ssrivas6@gmu.edu), [Sweta Pati](mailto:spati@gmu.edu), [Ziyu Yao](mailto:ziyuyao@gmu.edu)  
